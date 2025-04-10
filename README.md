@@ -1,9 +1,6 @@
-# Vue 3 + TypeScript + Vite
+！项目介绍：集成医院预约、实名认证、订单支付等功能，提升就诊效率。 
+![result1](https://github.com/user-attachments/assets/2a7eb4da-2b1f-4f47-9b60-8bbd20b4c76b)
+![result2](https://github.com/user-attachments/assets/e2e51739-56a7-41be-b644-673dca08c73a)
+![result3](https://github.com/user-attachments/assets/a10c2ceb-52c4-4f27-8744-40c92bacd909)
+![result4](https://github.com/user-attachments/assets/a7162988-1d77-4cdd-9048-4ac2e73a5d6b)
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
-
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-!(images/result1.png)
-!(images/result2.png)
-!(images/result3.png)
-!(images/result4.png)
